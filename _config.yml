@@ -2,4 +2,4 @@ title: Payal Godhani's space
 description: "Welcome to Payal Godhani's space"
 url: "https://godhanipayal.github.io"  # Replace with your GitHub Pages URL
 baseurl: "" # Leave empty unless using a subfolder
-theme: jekyll-theme-minimal  # Choose a theme (you can change this later)
+theme: jekyll-theme-slate  # Choose a theme (you can change this later)
