@@ -1,5 +1,22 @@
-title: Payal Godhani's space
-description: "Welcome to Payal Godhani's space"
-url: "https://godhanipayal.github.io"  # Replace with your GitHub Pages URL
-baseurl: "" # Leave empty unless using a subfolder
+title: "Payal Godhani"
+email: godhanipayal@gmail.com
+description: >- 
+  A personal site showcasing my talks, blogs, mentorships, patents, and more.
+baseurl: "" 
+url: "https://godhanipayal.github.io"
 theme: jekyll-theme-minimal-mistakes  # Choose a theme (you can change this later)
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Speaking"
+    url: "/speaking/"
+  - title: "Blog"
+    url: "/blog/"
+  - title: "Judging"
+    url: "/judging/"
+  - title: "Mentorship"
+    url: "/mentorship/"
+  - title: "Patents"
+    url: "/patents/"
+  - title: "About"
+    url: "/about/"
